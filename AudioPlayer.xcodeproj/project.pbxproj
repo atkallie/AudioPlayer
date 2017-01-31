@@ -12,6 +12,7 @@
 		BA8DFCC41E3583C0002B8C54 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BA8DFCC21E3583C0002B8C54 /* Main.storyboard */; };
 		BA8DFCC61E3583C0002B8C54 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BA8DFCC51E3583C0002B8C54 /* Assets.xcassets */; };
 		BA8DFCC91E3583C0002B8C54 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BA8DFCC71E3583C0002B8C54 /* LaunchScreen.storyboard */; };
+		BA8DFCD11E3585F3002B8C54 /* ILikeBadHouseVersion.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = BA8DFCD01E3585F3002B8C54 /* ILikeBadHouseVersion.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		BA8DFCC51E3583C0002B8C54 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BA8DFCC81E3583C0002B8C54 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BA8DFCCA1E3583C0002B8C54 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BA8DFCD01E3585F3002B8C54 /* ILikeBadHouseVersion.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = ILikeBadHouseVersion.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				BA8DFCC21E3583C0002B8C54 /* Main.storyboard */,
 				BA8DFCC51E3583C0002B8C54 /* Assets.xcassets */,
 				BA8DFCC71E3583C0002B8C54 /* LaunchScreen.storyboard */,
+				BA8DFCD01E3585F3002B8C54 /* ILikeBadHouseVersion.mp3 */,
 				BA8DFCCA1E3583C0002B8C54 /* Info.plist */,
 			);
 			path = AudioPlayer;
@@ -124,6 +127,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BA8DFCC91E3583C0002B8C54 /* LaunchScreen.storyboard in Resources */,
+				BA8DFCD11E3585F3002B8C54 /* ILikeBadHouseVersion.mp3 in Resources */,
 				BA8DFCC61E3583C0002B8C54 /* Assets.xcassets in Resources */,
 				BA8DFCC41E3583C0002B8C54 /* Main.storyboard in Resources */,
 			);
